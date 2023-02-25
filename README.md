@@ -3,8 +3,8 @@ Simple kick.com chat bot.
 
 todo:
 
-[x] read messages live from chat
-[ ] send messages to chat
+- [x] read messages live from chat
+- [ ] send messages to chat
 
 How to use:
 
