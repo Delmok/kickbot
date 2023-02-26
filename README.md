@@ -20,6 +20,6 @@ import {connectToChat, chat} from 'kickchatbot';
 chat.on('messages', function (data){
     console.log(data);
 })
-
+//Channel ID - Chatrooms ID
 connectToChat(1240760, 1233753);
 ```
