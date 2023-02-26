@@ -1,6 +1,11 @@
 # kickbot
 Simple kick.com chat bot.
 
+install:
+```rb
+    npm i kickchatbot
+```
+
 todo:
 
 - [x] read messages live from chat
@@ -9,7 +14,7 @@ todo:
 How to use:
 
 ```rb
-import {connectToChat, chat} from './main.js';
+import {connectToChat, chat} from 'kickchatbot';
 
 
 chat.on('messages', function (data){
